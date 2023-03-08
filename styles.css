@@ -12,6 +12,10 @@ footer {
 }
 nav {
   padding: 3px;
+  flex-direction: row;
+}
+ul{
+  float: right;
 }
 h1,
 h2,
